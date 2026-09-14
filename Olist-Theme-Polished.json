@@ -1,0 +1,52 @@
+{
+  "name": "Olist Polished 60-30-10",
+  "dataColors": ["#2F6B63", "#12B3A0", "#C99A2E", "#7C8C93", "#4E7C77", "#D8593F", "#5B6B72", "#9FB4AE"],
+  "foreground": "#212B33",
+  "foregroundNeutralSecondary": "#51606A",
+  "foregroundNeutralTertiary": "#8A99A0",
+  "background": "#FFFFFF",
+  "backgroundLight": "#F2F4F5",
+  "backgroundNeutral": "#E6EAEB",
+  "tableAccent": "#12B3A0",
+  "good": "#12876F",
+  "neutral": "#C99A2E",
+  "bad": "#D8593F",
+  "maximum": "#0E5A52",
+  "center": "#6FB3A8",
+  "minimum": "#E4F2EF",
+  "null": "#C3CCD0",
+  "hyperlink": "#0E7E70",
+  "textClasses": {
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#212B33" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#212B33" },
+    "callout": { "fontFace": "Segoe UI", "fontSize": 28, "color": "#212B33" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#51606A" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E7E8" } }, "radius": 8 }],
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#212B33" } }, "fontFamily": "Segoe UI Semibold", "fontSize": 14, "alignment": "left" }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F2F4F5" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F2F4F5" } }, "transparency": 0 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#212B33" } }, "fontSize": 26, "fontFamily": "Segoe UI Semibold" }],
+        "categoryLabels": [{ "show": true, "color": { "solid": { "color": "#8A99A0" } }, "fontSize": 10 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E7E8" } }, "radius": 8 }]
+      }
+    }
+  }
+}
