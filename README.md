@@ -83,4 +83,4 @@ Power BI Desktop · Power Query (M) · DAX · зіркова схема · What-
 Brazilian E-Commerce Public Dataset by Olist — Kaggle, публічний. У репозиторії — `.pbix` та скріншоти сторінок. Щоб оновити — завантаж 9 CSV із Kaggle.
 
 ---
-*Автор: [Максим Домантович] · [1maksdom@gmail.com]*
+*Автор: Максим Домантович · 1maksdom@gmail.com
